@@ -1,0 +1,30 @@
+.CVGenerator {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .CVGenerator h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    .CVGenerator form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .CVGenerator label {
+      margin: 10px 0;
+    }
+
+    .CVGenerator input,
+    .CVGenerator select {
+      margin-left: 10px;
+    }
+
+    .CVGenerator button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }

@@ -1,0 +1,31 @@
+.ATSOptimization {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .ATSOptimization h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    .ATSOptimization form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .ATSOptimization label {
+      margin: 10px 0;
+    }
+
+    .ATSOptimization textarea {
+      margin-left: 10px;
+      width: 80%;
+      height: 200px;
+    }
+
+    .ATSOptimization button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }

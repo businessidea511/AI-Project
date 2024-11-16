@@ -1,0 +1,29 @@
+.CVUpload {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .CVUpload h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    .CVUpload form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .CVUpload label {
+      margin: 10px 0;
+    }
+
+    .CVUpload input {
+      margin-left: 10px;
+    }
+
+    .CVUpload button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }

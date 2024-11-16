@@ -1,0 +1,29 @@
+.CreditPurchase {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .CreditPurchase h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    .CreditPurchase form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .CreditPurchase label {
+      margin: 10px 0;
+    }
+
+    .CreditPurchase input {
+      margin-left: 10px;
+    }
+
+    .CreditPurchase button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
